@@ -25,3 +25,5 @@ fp-info-cache
 *.csv
 
 BalancedSurroundOut-backups
+Gerber*
+#auto_saved_files#
