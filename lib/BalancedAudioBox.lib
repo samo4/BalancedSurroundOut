@@ -106,4 +106,42 @@ X EP 9 600 -800 200 U 50 50 0 0 B
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model DRV134UA
+#/2909/351/2.49/16/3/Integrated Circuit
+DEF DRV134UA IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "DRV134UA" 1150 200 50 H V L CNN
+F2 "SOIC127P1030X265-16N" 1150 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/drv134.pdf" 1150 0 50 H I L CNN
+F4 "DRV134UA, Differential Line Driver 16-Pin SOIC" 1150 -100 50 H I L CNN "Description"
+F5 "2.65" 1150 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DRV134UA" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-DRV134UA" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV134UA?qs=rNOSrj6uCs3eOeBJZ4R8yw%3D%3D" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "DRV134UA" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/drv134ua/texas-instruments?region=nac" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 1150 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 1150 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X NC_1 1 0 0 200 R 50 50 0 0 P
+X NC_2 2 0 -100 200 R 50 50 0 0 P
+X -V_O 3 0 -200 200 R 50 50 0 0 P
+X -SENSE 4 0 -300 200 R 50 50 0 0 P
+X GND 5 0 -400 200 R 50 50 0 0 P
+X VIN 6 0 -500 200 R 50 50 0 0 P
+X NC_3 7 0 -600 200 R 50 50 0 0 P
+X NC_4 8 0 -700 200 R 50 50 0 0 P
+X NC_8 16 1300 0 200 L 50 50 0 0 P
+X NC_7 15 1300 -100 200 L 50 50 0 0 P
+X +VO 14 1300 -200 200 L 50 50 0 0 P
+X +SENSE 13 1300 -300 200 L 50 50 0 0 P
+X V+ 12 1300 -400 200 L 50 50 0 0 P
+X V- 11 1300 -500 200 L 50 50 0 0 P
+X NC_6 10 1300 -600 200 L 50 50 0 0 P
+X NC_5 9 1300 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

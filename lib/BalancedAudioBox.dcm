@@ -20,4 +20,10 @@ D TPS61252DSGT, DC-DC Converter, 1500mA Adjustable, 3  6.5 V, Step Up, 3.25 MHz,
 F http://www.ti.com/lit/ds/symlink/tps61252.pdf
 $ENDCMP
 #
+$CMP DRV134UA
+D DRV134UA, Differential Line Driver 16-Pin SOIC
+K
+F http://www.ti.com/lit/ds/symlink/drv134.pdf
+$ENDCMP
+#
 #End Doc Library
