@@ -1077,7 +1077,7 @@
     (property "Datasheet" "~" (id 3) (at 118.11 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C228942" (id 4) (at 118.11 91.44 0)
+    (property "LCSC" "C27014" (id 4) (at 118.11 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f09cb53d-3c7f-41e1-9378-7a694a6c7669))
