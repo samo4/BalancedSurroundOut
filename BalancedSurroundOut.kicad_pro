@@ -397,7 +397,7 @@
       "idf": "",
       "netlist": "BalancedSurroundOut.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "BalancedSurroundOut.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
